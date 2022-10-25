@@ -1,0 +1,16 @@
+# Conhecimentos Git / GitHub Básicos.
+
+Primeiramente, baixar GIT, através do link: ( https://git-scm.com/ )
+
+## Principais comandos GIT:
+
+1. git init: Inicializa um repositório através de sua maquina.
+2. git add: Adiciona atualizações para area de espera de commit.
+3. git commit: O commit de fato manda os arquivos para o repositório, ultimo passo de atualizações de arquivos antes do Push.
+4. git status: Mostra se existe algo a ser comitado na area onde esta sendo trabalhado.
+5. git push: Envia todo trabalho feito para o repositório no GitHub.
+6. git clone: Puxar o repositório do GitHub para sua maquina, e assim poder trabalhar nele.
+
+### Observação:
+
+O git pull serve para puxar os arquivos para dentro do repositório, importante ferramente para encontrar erros de push que não estão dando certo.
